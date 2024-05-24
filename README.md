@@ -25,5 +25,5 @@ The contract fulfills the following requirements:
 3. The mint function increases the total supply and the balance of the sender address.
 4. The burn function decreases the total supply and the balance of the sender address, with conditionals to ensure balance sufficiency.
 
-### Conclusion
+### CONCLUSION
 With this Solidity smart contract, you can create and manage custom tokens on the Ethereum blockchain. The contract provides flexibility for minting new tokens and burning existing ones, while also maintaining transparency with public variables and mappings.
